@@ -1,1 +1,8 @@
 D:\personage\c#相关\SRRSH_OR\SRRSH_OR\SRRSH_OR\bin\Debug\SRRSH_OR.exe.config
+D:\personage\c#相关\SRRSH_OR\SRRSH_OR\SRRSH_OR\bin\Debug\SRRSH_OR.exe
+D:\personage\c#相关\SRRSH_OR\SRRSH_OR\SRRSH_OR\bin\Debug\SRRSH_OR.pdb
+D:\personage\c#相关\SRRSH_OR\SRRSH_OR\SRRSH_OR\obj\Debug\SRRSH_OR.Main.resources
+D:\personage\c#相关\SRRSH_OR\SRRSH_OR\SRRSH_OR\obj\Debug\SRRSH_OR.Properties.Resources.resources
+D:\personage\c#相关\SRRSH_OR\SRRSH_OR\SRRSH_OR\obj\Debug\SRRSH_OR.csproj.GenerateResource.Cache
+D:\personage\c#相关\SRRSH_OR\SRRSH_OR\SRRSH_OR\obj\Debug\SRRSH_OR.exe
+D:\personage\c#相关\SRRSH_OR\SRRSH_OR\SRRSH_OR\obj\Debug\SRRSH_OR.pdb
